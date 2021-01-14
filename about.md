@@ -1,4 +1,4 @@
 # About
 
-Why is it so hard to get this blog working
+## Why is it so hard to get this blog working
 
